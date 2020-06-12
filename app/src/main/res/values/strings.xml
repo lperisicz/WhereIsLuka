@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WhereIsLuka</string>
+    <string name="take_photo">Snimi fotografiju</string>
+    <string name="google_maps_key">AIzaSyD6WAfa4CWTT8WCt6Wnh1JTQUjvIzMqlL8</string>
+</resources>
